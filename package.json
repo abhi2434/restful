@@ -6,6 +6,6 @@
     "now": "^21.0.1"
   },
   "scripts": {
-    "start": "now"
+    "start": "node now"
   }
 }
